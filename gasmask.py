@@ -28,7 +28,7 @@
 """
 
 __author__ = "maldevel"
-__credits__ = ["maldevel", "mikismaos", "xvass", "ndamoulianos", "sbrb"]
+__credits__ = ["maldevel", "mikismaos", "xen0vas", "ndamoulianos", "sbrb"]
 __license__ = "GPLv3"
 __version__ = "2.0"
 
